@@ -12,3 +12,4 @@ C:\Users\Arthur\Desktop\labora\aula03\obj\Debug\net8.0\refint\aula03.dll
 C:\Users\Arthur\Desktop\labora\aula03\obj\Debug\net8.0\aula03.pdb
 C:\Users\Arthur\Desktop\labora\aula03\obj\Debug\net8.0\aula03.genruntimeconfig.cache
 C:\Users\Arthur\Desktop\labora\aula03\obj\Debug\net8.0\ref\aula03.dll
+C:\Users\Arthur\Desktop\labora\aula03\obj\Debug\net8.0\aula03.sourcelink.json

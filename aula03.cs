@@ -8,7 +8,7 @@ v = Convert.ToInt32(Console.ReadLine());
 int resultado1 = x + v;
 int resultado2 = x - v;
 int resultado3 = x * v;
-int resultado4 = x / v;
+double resultado4 = (double) x / v;
 
 Console.WriteLine($"Seu resultado somado foi {0}", resultado1);
 Console.WriteLine("Seu resultado subtraindo foi " + resultado2 + "");
